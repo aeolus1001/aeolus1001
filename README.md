@@ -2,7 +2,7 @@
 <h3 align="left">A passionate fullstack developer from Turkey</h3>
 <h3 align="left">Contact With Me:</h3>
 <p align="left">
-[![Discord Presence](https://lanyard.cnrad.dev/api/566830064671522856)](https://discord.com/users/566830064671522856)
+![Discord Presence](https://lanyard.cnrad.dev/api/566830064671522856)](https://discord.com/users/566830064671522856)
 </a>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
