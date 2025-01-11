@@ -2,7 +2,7 @@
 <h3 align="left">A passionate fullstack developer from Turkey</h3>
 <h3 align="left">Contact With Me:</h3>
 <p align="left">
-![Sa](https://dcbadge.limes.pink/api/shield/566830064671522856)
+<img src="https://camo.githubusercontent.com/4d0eeb826828f2fcfeefc564aa9f470056f30c18f39b440f7e3c1cf9b1204aba/68747470733a2f2f646362616467652e6c696d65732e70696e6b2f6170692f736869656c642f343036313235303238303635383034323839" alt="" data-canonical-src="https://dcbadge.limes.pink/api/shield/566830064671522856" style="max-width: 100%;">
 </a>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
