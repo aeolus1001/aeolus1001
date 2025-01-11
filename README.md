@@ -1,7 +1,9 @@
 <h1 align="left">Hi 👋, I'm Aeolus [Nedret]</h1>
 <h3 align="left">A passionate fullstack developer from Turkey</h3>
-
-<h2 align="left">Skills</h2>
+<h3 align="left">Contact With Me:</h3>
+<p align="left">
+![](https://dcbadge.limes.pink/api/shield/566830064671522856)
+</a>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
