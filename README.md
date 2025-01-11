@@ -1,9 +1,8 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 <h1 align="left">Hi 👋, I'm Aeolus [Nedret]</h1>
 <h3 align="left">A passionate fullstack developer from Turkey</h3>
 <h3 align="left">Contact With Me:</h3>
 <p align="left">
-[![Discord Presence](https://lanyard.cnrad.dev/api/566830064671522856)](https://discord.com/users/566830064671522856)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 </a>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
