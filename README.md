@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/566830064671522856?theme=dark&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/566830064671522856)
+[![Discord Presence](https://lanyard.cnrad.dev/api/566830064671522856)](https://discord.com/users/566830064671522856)
 <h1 align="left">Hi 👋, I'm Aeolus [Nedret]</h1>
 <h3 align="left">A passionate fullstack developer from Turkey</h3>
 <p align="left">
