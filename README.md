@@ -26,8 +26,8 @@
 ### Backend Development and Frameworks
  [](https://nodejs.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
  [](https://expressjs.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40">
- [](https://flask.palletsprojects.com/) <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40">
- [](https://nestjs.com/) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40">
+ [](https://flask.palletsprojects.com/) <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask" width="40" height="40">
+ [](https://nestjs.com/) <img src="https://icon.icepanel.io/Technology/svg/Nest.js.svg" alt="NestJS" width="40" height="40">
 
 ### Mobile Application Development
  [](https://developer.android.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40">
